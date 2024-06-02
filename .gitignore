@@ -1,0 +1,2 @@
+# Ignore all py files in lectures directory - due to OCW copyright
+lectures/**/*.py
