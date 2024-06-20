@@ -1,7 +1,7 @@
 # Problem Set 2, hangman.py
 # Name: John Harlow
 # Collaborators:
-# Time spent: 15:57
+# Time spent: 15:57 -> 18:16 :: 2 hours and 19 mins
 
 # Hangman Game
 # -----------------------------------
